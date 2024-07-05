@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QWiSCe+OlZeS4Y8+zgHt2awVP9LywAxS+Oh2cDRAzlMSA17s/nhFkMvRMSSFTIHMRsrQAyHkWoPh5CbSu+Pc5A==",
+  "dgSpecHash": "GFnzoRoPcLUPRArh3As5YM+LQ6l4nK7Z4gji8q3nuuM8hP8obecabXAWQw0m+TR0T6iugTQ4TRfEuEyYEhXvqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\OneDrive - DESCOMPLICA CURSOS LIVRES VIA WEB S.A\\Studying\\CSharp\\CRUD\\CRUD\\CRUD.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\CRUDCS\\cs_crud\\CRUD\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

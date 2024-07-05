@@ -99,7 +99,7 @@ namespace CRUD
                         employee.Neighborhood = reader["Neighborhood"].ToString();
                         employee.Rg = reader["Rg"].ToString();
                         employee.Cpf = reader["Cpf"].ToString();
-                    }                    
+                    }
                     MessageBox.Show("Funcionário encontrado!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     return employee;
                 }
