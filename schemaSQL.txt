@@ -16,6 +16,11 @@ CREATE TABLE employee (
     rg NVARCHAR(20),
     cpf NVARCHAR(14)
 );
+
+
+-- Querys
 drop table employee;
+
 select * from employee;
+
 SELECT name, phone, email, address, number, neighborhood, rg, cpf FROM studying.employee
