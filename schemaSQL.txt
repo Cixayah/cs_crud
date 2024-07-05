@@ -1,6 +1,6 @@
 -- Criação do banco de dados
 CREATE DATABASE studying;
-drop table employee;
+
 -- Utilização do banco de dados
 USE studying;
 
