@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\CRUDCS\\cs_crud\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{020AD41B-1CCE-4248-88B5-26F664D87B8E}|CRUD\\CRUD.csproj|C:\\Users\\Gabriel\\Desktop\\CRUDCS\\cs_crud\\CRUD\\crud\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{020AD41B-1CCE-4248-88B5-26F664D87B8E}|CRUD\\CRUD.csproj|c:\\users\\gabriel\\desktop\\crudcs\\cs_crud\\crud\\crud\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020AD41B-1CCE-4248-88B5-26F664D87B8E}|CRUD\\CRUD.csproj|solutionrelative:crud\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{020AD41B-1CCE-4248-88B5-26F664D87B8E}|CRUD\\CRUD.csproj|c:\\users\\gabriel\\desktop\\crudcs\\cs_crud\\crud\\crud\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{020AD41B-1CCE-4248-88B5-26F664D87B8E}|CRUD\\CRUD.csproj|C:\\Users\\Gabriel\\Desktop\\CRUDCS\\cs_crud\\CRUD\\crud\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{020AD41B-1CCE-4248-88B5-26F664D87B8E}|CRUD\\CRUD.csproj|solutionrelative:crud\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "CRUD\\DatabaseManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T20:13:30.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T20:13:30.402Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "CRUD\\EmployeeManager.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\CRUDCS\\cs_crud\\CRUD\\CRUD\\EmployeeManager.cs",
               "RelativeToolTip": "CRUD\\EmployeeManager.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA4wFsAAAAVAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wFsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T20:10:42.703Z",
               "EditorCaption": ""
