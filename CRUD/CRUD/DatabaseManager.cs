@@ -10,7 +10,6 @@ namespace DatabaseManager
     {
         // Database credentials
 
-
         // Database connection string
         public static string ConnectionString = $"server={server}; user={user}; database={database}; port={port}; password={password}";
     }
